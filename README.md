@@ -11,9 +11,9 @@ This program takes operations on fractions as input and returns a fractional res
 
 ## Usage
 
--Operands and operators shall be separated by one or more spaces.
--Mixed numbers will be represented by whole_numerator/denominator. e.g. "3_1/4"
--Improper fractions and whole numbers are also allowed as operands.
+- Operands and operators shall be separated by one or more spaces.
+- Mixed numbers will be represented by whole_numerator/denominator. e.g. "3_1/4"
+- Improper fractions and whole numbers are also allowed as operands.
 ```
   $ ruby main.rb 1/2 '\*' 3_3/4
   1_7/8
